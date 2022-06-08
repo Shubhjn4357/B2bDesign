@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/B2bDesign/static/css/main.c0b9aec6.css",
+    "main.js": "/B2bDesign/static/js/main.89aa1ec7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/B2bDesign/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/B2bDesign/index.html",
+    "main.c0b9aec6.css.map": "/B2bDesign/static/css/main.c0b9aec6.css.map",
+    "main.89aa1ec7.js.map": "/B2bDesign/static/js/main.89aa1ec7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/B2bDesign/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b9aec6.css",
+    "static/js/main.89aa1ec7.js"
+  ]
+}
